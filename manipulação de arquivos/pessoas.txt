@@ -1,0 +1,6 @@
+Nome maria, idade: 45
+Nome joao, idade: 33
+Nome ana, idade: 21
+Nome pedro, idade: 63
+Nome bia, idade: 40
+Nome carlos, idade: 14
